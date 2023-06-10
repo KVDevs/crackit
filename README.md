@@ -3,7 +3,7 @@
 UPSC Climber
 ------------
 
-{{ title }}
+Welcome to UPSC Climber - One stop destination to ace government exams
 ===========
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur convallis nisi, eget vulputate neque lacinia vel. Nulla faucibus metus leo, ac laoreet est suscipit ut. Duis ac nulla auctor, interdum arcu vitae, efficitur sem. Sed in consequat mi. Donec auctor, urna vel egestas fringilla, lacus risus faucibus elit, non hendrerit dui erat id ante. Nam scelerisque risus sed ligula sagittis cursus. Etiam tempor justo sit amet ultrices commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
